@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  background-color: #9e2cd6a7;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.foto-perfil {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.main {
+  background-color: rgb(252, 252, 252);
+  color: black;
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #9e2cd6a7;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+footer a {
+  color: #061114;
+  margin: 0 20px;
+  text-decoration: none;
+}

@@ -1,0 +1,36 @@
+
+.languages-section {
+  background-color: #b012ee3a; 
+  color: #7f60a4; 
+  padding: 30px 20px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 12px;
+  max-width: 400px;
+  margin: 0 auto 40px auto;
+  box-shadow: 0 4px 8px rgba(81, 44, 106, 0.4); 
+}
+
+.languages-section h2 {
+  font-weight: 700;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+  color: #920ec2; 
+}
+
+.languages-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.language-item {
+  font-size: 1.2rem;
+  font-weight: 600;
+  padding: 20px 0;
+  border-bottom: 1px solid #bb37d9; 
+}
+
+.language-item:last-child {
+  border-bottom: none;
+}

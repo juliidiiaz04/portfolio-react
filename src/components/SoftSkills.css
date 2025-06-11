@@ -1,0 +1,31 @@
+.softskills-section {
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+.softskills-section h2 {
+  text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.softskills-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+
+.softskill-item {
+  background-color: #b74de28f;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-weight: bold;
+  color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
