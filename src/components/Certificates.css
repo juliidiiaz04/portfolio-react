@@ -26,7 +26,7 @@
 .certificate-card {
   background: #e6e0f8; 
   border-radius: 10px;
-  width: 200px;
+  width: 300px;
   color: #7e6eb1;
   box-shadow: 0 4px 8px rgba(126, 110, 177, 0.3);
   transition: transform 0.2s ease;
