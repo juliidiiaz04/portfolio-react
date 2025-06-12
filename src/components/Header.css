@@ -19,11 +19,11 @@
 }
 
 .header-foto {
-  width: 250px;       
-  height: 250px;      
+  width: 300px;       
+  height: 300px;      
   border-radius: 50%; 
   object-fit: cover;  
-  border: 2px solid #c12ab4;
+  border: 2px solid #e480dc;
   margin-bottom: 1rem;
 }
 
